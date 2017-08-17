@@ -1,0 +1,56 @@
+STATION          SCH.       SCH.        STATUS    ACTUAL     DELAY
+               ARRIVAL    DEPARTURE               ARRIVAL
+    
+
+Nizamuddin      SOURCE     02:30       Departed   02:30      No delay
+                            PM   		   PM
+
+Mathura Jn      04:00      04:10       Reached    04:05      05 Min
+                 PM         PM                     PM
+  
+Kota Jn         07:45      07:55       Reached    07:45      No delay
+                 PM         PM	                   PM
+
+Ratlam Jn       10:00      10:10	 Not	             
+                 PM         PM	       Reached     --         --
+
+Dahod           12:05      12:15	 Not       --         --
+                 AM         AM	       Reached     
+
+Godhra Jn       02:30      02:40	 Not       --         --
+                 AM         AM	       Reached     
+
+Vadodara Jn     04:00       --	         Not       --         --
+                 AM         	       Reached     
+
+
+
+
+                         RETURN TIME SCHEDULE 
+
+
+
+
+STATION       SCH.         SCH.        STATUS     ACTUAL     DELAY
+             ARRIVAL     DEPARTURE               ARRIVAL
+
+Vadodara Jn   SOURCE   	 05:00	        Not        --         --
+                          AM          Reached      
+   
+Godhra Jn     06:30      06:40          Not        --         --
+               AM         AM          Reached	  
+
+Dahod         08:25 	 08:35	        Not        --         --
+               AM	  AM	      Reached	   
+
+Ratlam Jn     10:00 	 10:10	        Not        --         --
+               AM	  AM	      Reached	   
+
+Kota Jn       12:15	 12:25	        Not        --         --
+               PM	  PM	      Reached	   
+
+Mathura Jn    04:00	 04:10	        Not        --         --
+               PM	  PM	      Reached	   
+
+Nizamuddin    05:30	  --	        Not        --         -- 
+               PM	  	      Reached	    

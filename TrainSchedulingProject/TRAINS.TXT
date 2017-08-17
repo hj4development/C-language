@@ -1,0 +1,19 @@
+TRAIN              SOURCE     DESTINATION    TIME DURATION         RETURN TIME
+  				                                    DURATION
+
+ hjoshiup         Nizamuddin   Vadodara      02:30PM-04:00AM       05:00AM-05:30PM 
+
+
+ hsss          Agra cantt   Ghaziabad     02:30PM-04:00AM       05:00AM-05:30PM 
+
+
+ hshardown        Ghaziabad    Agracantt     02:30PM-03:05AM       03:55AM-02:45PM 
+
+
+ avup        Jabalpuram     Nagpur        02:30PM-04:00AM       05:00AM-05:30PM 
+
+
+ avdown      Nagpur       Jabalpuram      02:30PM-03:05AM       03:55AM-02:45PM 
+
+
+ ukup		Delhi		Uttarakhand		8:30AM-3:00PM		4:00PM-9:30PM 

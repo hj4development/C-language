@@ -1,0 +1,54 @@
+STATION       SCH.         SCH.        STATUS     ACTUAL     DELAY
+             ARRIVAL     DEPARTURE               ARRIVAL
+
+Ghaziabad    SOURCE   	 02:30	      Departed    02:30      no delay  
+                          PM                       PM
+   
+Dadar        04:00      04:10                    04:05       05 mins   
+               PM         PM          Reached	   PM
+
+Bhopal       06:55 	 07:05	                  06:55      no delay   
+               PM	  PM	      Reached	   PM
+
+Bareilly     07:35 	 07:45	                  07:35      no delay  
+               PM	  PM	      Reached	   PM
+
+Ambala       09:50	 10:00	        Not        --         --
+               PM	  PM	      Reached	   
+
+Ahmedabad    01:35	 01:40	        Not        --         --
+               AM	  AM	      Reached	   
+
+Agra cantt   03:05	  --	        Not        --         -- 
+               AM	  	      Reached	 
+
+
+
+                     RETURN TIME SCHEDULE
+
+
+
+STATION          SCH.       SCH.        STATUS    ACTUAL     DELAY
+               ARRIVAL    DEPARTURE               ARRIVAL
+    
+
+Agra cantt      SOURCE     03:55       Departed    --         --
+                            AM   		   
+
+Ahmedabad       06:35      06:45       Reached     --         --
+                 AM         AM                     
+  
+Ambala          07:00      07:10       Reached     --         --
+                 AM         AM	                    
+
+Bareilly        09:05      09:15	 Not	   --         --  
+                 AM         AM	       Reached             
+
+Bhopal          11:10      11:20	 Not       --         --
+                 AM         AM	       Reached     
+
+Dadar           01:25      01:35	 Not       --         --
+                 PM         PM	       Reached     
+
+Ghaziabaad      02:45       --	         Not       --         --
+                 PM                    Reached      

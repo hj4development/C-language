@@ -1,0 +1,54 @@
+STATION          SCH.       SCH.        STATUS    ACTUAL     DELAY
+               ARRIVAL    DEPARTURE               ARRIVAL
+    
+
+Jabalpur        SOURCE     02:30       Departed   02:30      No delay
+                            PM   		   PM
+
+Jaipur          04:00      04:10       Reached    04:05      05 Min
+                 PM         PM                     PM
+  
+Jalandhar       07:45      07:55       Reached    07:45      No delay
+                 PM         PM	                   PM
+
+Jhansi          10:00      10:10	 Not	             
+                 PM         PM	       Reached     --         --
+
+Kota            12:05      12:15	 Not       --         --
+                 AM         AM	       Reached     
+
+Lucknow         02:30      02:40	 Not       --         --
+                 AM         AM	       Reached     
+
+Nagpur          04:00       --	         Not       --         -- 
+                 AM         	       Reached     
+
+
+
+
+                         RETURN TIME SCHEDULE 
+
+
+STATION       SCH.         SCH.        STATUS     ACTUAL     DELAY
+             ARRIVAL     DEPARTURE               ARRIVAL
+
+Nagpur        SOURCE   	 05:00	        Not        --         --
+                          AM          Reached      
+   
+Lucknow       06:30      06:40          Not        --         --
+               AM         AM          Reached	  
+
+Kota          08:25 	 08:35	        Not        --         --
+               AM	  AM	      Reached	   
+
+Jhansi        10:00 	 10:10	        Not        --         --
+               AM	  AM	      Reached	   
+
+Jhalandar     12:15	 12:25	        Not        --         --
+               PM	  PM	      Reached	   
+
+Jaipur        04:00	 04:10	        Not        --         --
+               PM	  PM	      Reached	   
+
+Jabalpur      05:30	  --	        Not        --         --
+               PM	  	      Reached 
